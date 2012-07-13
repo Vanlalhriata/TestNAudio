@@ -1,0 +1,13 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\bin\Debug\TestNAudio.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\bin\Debug\TestNAudio.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\MainWindow.baml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\MainWindow.g.cs
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\App.g.cs
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\TestNAudio_MarkupCompile.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\TestNAudio.g.resources
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\TestNAudio.Properties.Resources.resources
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\TestNAudio.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\TestNAudio\TestNAudio\obj\x86\Debug\TestNAudio.pdb
